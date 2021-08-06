@@ -6,6 +6,6 @@ Então, basta executar o programa ProjetoPokedex.py.
 
 É necessário instalar MySQLConnector-Python.
 
-' pip install mysql-connector-python '
+> pip install mysql-connector-python
 
 O programa em Python é um filtro com interface gráfica em Tkinter. As queries foram feitas com Common Table Expressions (CTEs), gradualmente filtrando os pokémons que atendem os vários critérios selecionados.
